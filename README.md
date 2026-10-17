@@ -235,4 +235,4 @@ This repository serves as the official landing page for iDump. The software is d
 **Get the most recent version of iDump today!**
 
 ---
-**Last updated:** 2026-10-16 22:28:50 UTC
+**Last updated:** 2026-10-17 01:00:51 UTC
